@@ -8,3 +8,4 @@ In List methods we learned the methods like append,clear,copy,count,extend,index
 Tuple method there are count and index.
 In set there are so many methods like difference,diiference update,add,clear,copy,intersection and etc.
 In dictionary method we are dealing with pop,copy,clear,remove,fromkeys,get,items,popoitems,setdefault,update and values.
+Task 2 
