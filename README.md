@@ -17,5 +17,5 @@ b) The continue statement in Python is used to skip the remaining code inside a 
 c) Pass Statement : The pass statement in Python is used when a statement or a condition is required to be present in the program, but we don't want any command or code to execute.
 d) Statistical Functions: In the python the statistic module provides functions to perform statistical operations on data This module offers various functions to calculate measures like mean, median, mode,standard deviation, variance, and more
 e)Logical User definde functionca user defined function in python is custom function created by the usder to perform a specific task. 
+Task 4 
 
-    
